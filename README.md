@@ -25,11 +25,11 @@ If you want to use something like modded yt music (no custom front end) then you
 
 **Flutter YT Music Clients**
 
-![](Aspose.Words.f005f301-d8c9-4e5e-b0f3-73e8f15cd825.001.png) [Gyawun](https://github.com/sheikhhaziq/gyawun)
+[Gyawun](https://github.com/sheikhhaziq/gyawun)
 
-![ref1] [Musify](https://github.com/gokadzev/Musify)
+[Musify](https://github.com/gokadzev/Musify)
 
-![ref1] [Blackhole](https://github.com/Sangwan5688/BlackHole)
+[Blackhole](https://github.com/Sangwan5688/BlackHole)
 
 **Universal Clients:**
 
@@ -41,22 +41,28 @@ If you want to use something like modded yt music (no custom front end) then you
 
 **IOS:**
 
-![ref1] [Blackhole](https://github.com/Sangwan5688/BlackHole)
+[Blackhole](https://github.com/Sangwan5688/BlackHole)
 
-![ref1] [YTMusicUltimate ](https://github.com/ginsudev/YTMusicUltimate)**Windows:**
+[YTMusicUltimate ](https://github.com/ginsudev/YTMusicUltimate)
+
+**Windows:**
 
 - [YTMDesktop](https://github.com/ytmdesktop/ytmdesktop)
 - [Spotube](https://github.com/KRTirtho/spotube)
 
 **Linux:**
 
-![ref1] [YTMDesktop ](https://github.com/ytmdesktop/ytmdesktop)![ref1] [AudioTube](https://invent.kde.org/multimedia/audiotube)
+[YTMDesktop ](https://github.com/ytmdesktop/ytmdesktop)
 
-![ref1] [Olivia](https://github.com/keshavbhatt/olivia)
+[AudioTube](https://invent.kde.org/multimedia/audiotube)
+
+[Olivia](https://github.com/keshavbhatt/olivia)
 
 ![](Aspose.Words.f005f301-d8c9-4e5e-b0f3-73e8f15cd825.002.png) [Muzika](https://github.com/vixalien/muzika)
 
-![ref1] [Monophony ](https://gitlab.com/zehkira/monophony)![ref1] [Spotube](https://github.com/KRTirtho/spotube)
+[Monophony ](https://gitlab.com/zehkira/monophony)
+
+[Spotube](https://github.com/KRTirtho/spotube)
 
 **Mac OS:**
 
@@ -64,6 +70,3 @@ If you want to use something like modded yt music (no custom front end) then you
 - [Spotube](https://github.com/KRTirtho/spotube)
 
 Google Sign-In support: SpMp, YTMDesktop, Muzika, YTMusicUltimate, InnerTune, SimpMusic Spotify Login support: Spottube
-https://www.reddit.com/r/AfterVanced/comments/15ehnb0/yt\_music\_rvx\_alternatives\_open\_source\_yt\_music/ 2/2
-
-[ref1]: Aspose.Words.f005f301-d8c9-4e5e-b0f3-73e8f15cd825.001.png
