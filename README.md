@@ -17,7 +17,14 @@ If you want to use something like modded yt music (no custom front end) then you
 - [InnerTune](https://github.com/z-huang/InnerTune)
 - [Harmony-Music](https://github.com/anandnet/Harmony-Music)
 - [SpMp](https://github.com/toasterofbread/spmp)
-- [YouTune](https://github.com/SuhasDissa/You-Tune)
+- [YouTune](https://github.com/SuhasDissa/You-Tune) <details>
+  <summary>  Screenshots</summary>
+<p align="center">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="30%" />
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="30%" />
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="30%" />
+</p>
+</details>
 - [MellowMusic ](https://github.com/SuhasDissa/MellowMusic)(New) [uses Piped API]
 - [SimpMusic ](https://github.com/maxrave-dev/SimpMusic)(New) [Official YT Music Style]
 - [Gramophone ](https://github.com/AkaneTan/Gramophone)(New) [Web-Streaming coming soon]
