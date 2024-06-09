@@ -42,7 +42,7 @@ If you want to use something like modded yt music (no custom front end) then you
 
 - [MellowMusic ](https://github.com/SuhasDissa/MellowMusic)(New) [uses Piped API]
 
-- [SimpMusic ](https://github.com/maxrave-dev/SimpMusic)(New) [Official YT Music Style]
+- [SimpMusic ](https://github.com/maxrave-dev/SimpMusic)(New) [Official Spotify Music Style]
 
 - [Gramophone ](https://github.com/AkaneTan/Gramophone)(New) [Web-Streaming coming soon]
 
